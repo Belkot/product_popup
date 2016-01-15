@@ -3,3 +3,4 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 $ ->
   $("#dialogform").dialog(modal: true, width: 500)
+  $("#title").hide()
